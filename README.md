@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Hacker94
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
-
-<!---
-Ketan-vscode/Ketan-vscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Shu Kurnai 
+- 👀 I’m interested in Web Development 
+- 🌱 I’m currently learning Web Devlopment 
+- 📫 About Me 
+- Age - 13years 
+- Gender - Male 
+- Ocuppation - Student 
+- Continent  - Asia 
